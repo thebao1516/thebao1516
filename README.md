@@ -1,0 +1,4 @@
+- 👋 hello there,my fullname is The Bao
+- 👀 My passion is automating stuff in my daily life
+- 🌱 I’m now a highschool student
+- 🎈 This is where am doing my research
